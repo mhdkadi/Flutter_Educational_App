@@ -14,7 +14,7 @@ class ForgotPasswordBody extends StatelessWidget {
             children: [
               SizedBox(height: MediaQuery.of(context).size.height * 0.04),
               Text(
-                "Forgot Password",
+                "Forgot Password  ",
                 style: TextStyle(
                   fontSize: customWidth(context, 28),
                   color: Colors.black,
