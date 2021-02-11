@@ -1,6 +1,6 @@
 # flutter_educational_app
 
-A new Flutter project.
+A new Flutter project. and it still in progress
 
 ## Getting Started
 
